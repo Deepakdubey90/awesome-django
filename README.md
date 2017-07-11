@@ -325,6 +325,7 @@ phone numbers.
 * [django-paypal](https://github.com/spookylukey/django-paypal) - A pluggable Django application for integrating PayPal Payments Standard or Payments Pro.
 * [django-pinpayments](https://github.com/rossp/django-pinpayments/) - Django library to simplify payment processing with pin.
 * [django-zebra](https://github.com/GoodCloud/django-zebra/) - Forms, widgets, template tags and examples that make Stripe + Django easier.
+* [django-payubiz](https://github.com/renjithsraj/django_payubiz/) - Django library for simplyfy the payu payment gateway integration.
 
 ## Project Management
 
